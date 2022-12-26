@@ -1,4 +1,4 @@
-module github.com/udaycruise2903/stickcards
+module github.com/udaycruise2903/cardbox
 
 go 1.18
 
