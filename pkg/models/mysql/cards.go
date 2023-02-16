@@ -2,6 +2,8 @@ package mysql
 
 import (
 	"database/sql"
+
+	"github.com/udaycruise2903/cardbox/pkg/models"
 )
 
 type CardModel struct {
